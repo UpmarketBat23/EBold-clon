@@ -1,0 +1,31 @@
+.search-box {
+    background-color: #fff;
+    width: 330px;
+    height: 50px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 25px;   
+    border: 5px;
+    border-color: blueviolet;
+}
+
+.search-input {
+    width: 240px;
+    border: 5px;
+    outline: none;
+    background: none;
+    font-size: 18px;
+    border: 4px;
+    border-color: red;
+}
+
+.fa-magnifying-glass {
+    color: black;
+}
+
+.fa-magnifying-glass:hover {
+    color: skyblue;
+    cursor: pointer;
+}

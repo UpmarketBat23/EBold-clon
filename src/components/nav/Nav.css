@@ -1,0 +1,36 @@
+.navbar {
+    width: 100vw;
+}
+.toggle-button {
+    background-color: transparent;
+    border: none;
+
+}
+.search-form {
+    display: flex;
+  }
+  
+  .search-input {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  
+  .search-button {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+.icon {
+    color: #fff;
+}
+span {
+    color: #474747b6;
+    text-transform: uppercase;
+}
+.mega-menu {
+    width: 40vw;
+    height: 40vh;
+  }
+.prueba {
+    border: 4px;
+    border-color: red;
+}
